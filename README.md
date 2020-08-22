@@ -3,6 +3,7 @@
 I am a Front end developer at [Timesoft](https://github.com/timesofttechnology) from Azerbaijan, 
 
 2016 - 2020: Bachelor's degree in **Electronics Telecommunications and Radio Engineering**, [ASOIU](http://www.asoiu.edu.az/en)
+</br>
 2020 - 2022: Master's degree in **Automation and programming**, [ASOIU](http://www.asoiu.edu.az/en)
 
 - 🌱 I’m currently learning how to be good software engineer
