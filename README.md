@@ -1,6 +1,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there!
 
-I am a Front end developer at [Timesoft](https://github.com/timesofttechnology) from Azerbaijan, 
+I am a Front end developer at [Rabitabank](https://rabitabank.com/) from Azerbaijan, 
 
 2016 - 2020: Bachelor's degree in **Electronics Telecommunications and Radio Engineering**, [ASOIU](http://www.asoiu.edu.az/en)
 </br>
