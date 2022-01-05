@@ -8,7 +8,7 @@ I am a Front end developer at [Rabitabank](https://rabitabank.com/) from Azerbai
 
 - 🌱 I’m currently learning how to be good software engineer
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about HTML CSS BOOSTRAPP MATERIAL-UI JAVASCRIPT JQUERY REACT REDUX HOOKS  
+- 💬 Ask me about HTML CSS BOOSTRAPP MATERIAL-UI JAVASCRIPT JQUERY REACT NEXT REDUX HOOKS VUE VUEX NUXT
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a big fan of comedy
 
