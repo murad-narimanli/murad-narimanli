@@ -15,7 +15,7 @@ I am a Front end developer at [Rabitabank](https://rabitabank.com/) from Azerbai
 ### Connect with me:
 
  [<img alt="Website" style="margin-right:10px" height="30px" src="https://www.pngkey.com/png/full/911-9113941_international-human-rights-instruments-white-transparent-website-logo.png"/>][website] 
- [<img alt="instagram" style="margin-right:10px" height="30px" src="https://instagram-brand.com/wp-content/themes/ig-branding/assets/images/ig-logo-email.png"/>][instagram] 
+ [<img alt="instagram" style="margin-right:10px" height="30px" src="[https://instagram-brand.com/wp-content/themes/ig-branding/assets/images/ig-logo-email.png](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freepnglogos.com%2Fuploads%2Finstagram-icon-png%2Finstagram-app-icon-instagram-logos-brand-17.png&f=1&nofb=1&ipt=d1de77326fa9004430b1af4c6e2bc6d72184e118a169da4c14f54f32b7bab068&ipo=images)"/>][instagram] 
  [<img alt="instagram" style="margin-right:10px" height="30px" src="https://png4u.com/wp-content/uploads/2020/02/Whatsapp-Logo-Icon-PNG-Android-Ios-13-1024x1024.png"/>][whatsapp] 
  [<img alt="instagram" style="margin-right:10px" height="30px" src="https://i1.wp.com/www.vectorico.com/wp-content/uploads/2019/02/Telegram-Icon.png?fit=1000%2C1000"/>][telegram] 
  [<img alt="Facebook" style="margin-right:10px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/768px-Facebook_icon.svg.png" />][facebook]
