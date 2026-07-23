@@ -31,8 +31,9 @@
     </circle>
     <rect x="0" y="82" width="330" height="252" rx="18" fill="#102943" stroke="#2b5972"/>
     <text x="28" y="124" class="company">Rabitabank OJSC</text>
-    <text x="28" y="154" class="role">Chapter Lead | 08/2021 - Present</text>
-    <text x="28" y="194" class="small">
+    <text x="28" y="154" class="role">Chapter Lead</text>
+    <text x="28" y="180" class="small">08/2021 - Present</text>
+    <text x="28" y="214" class="small">
       <tspan x="28" dy="0">Internet banking with Vue 2/3</tspan>
       <tspan x="28" dy="24">Microfrontend architecture</tspan>
       <tspan x="28" dy="24">Reporting tools and APIs</tspan>
@@ -46,8 +47,9 @@
     </circle>
     <rect x="0" y="82" width="330" height="252" rx="18" fill="#102943" stroke="#2b5972"/>
     <text x="28" y="124" class="company">King Entertainment</text>
-    <text x="28" y="154" class="role">Senior Frontend | 08/2025 - 01/2026</text>
-    <text x="28" y="194" class="small">
+    <text x="28" y="154" class="role">Senior Frontend</text>
+    <text x="28" y="180" class="small">08/2025 - 01/2026</text>
+    <text x="28" y="214" class="small">
       <tspan x="28" dy="0">Gaming UIs with React and Next.js</tspan>
       <tspan x="28" dy="24">Real-time game data flows</tspan>
       <tspan x="28" dy="24">User activity integrations</tspan>
@@ -61,8 +63,9 @@
     </circle>
     <rect x="0" y="82" width="330" height="252" rx="18" fill="#102943" stroke="#2b5972"/>
     <text x="28" y="124" class="company">ABB Innovation</text>
-    <text x="28" y="154" class="role">Outsource Frontend | 06/2024 - 09/2024</text>
-    <text x="28" y="194" class="small">
+    <text x="28" y="154" class="role">Outsource Frontend</text>
+    <text x="28" y="180" class="small">06/2024 - 09/2024</text>
+    <text x="28" y="214" class="small">
       <tspan x="28" dy="0">Enterprise dashboards</tspan>
       <tspan x="28" dy="24">React and Next.js delivery</tspan>
       <tspan x="28" dy="24">Secure microfrontend practices</tspan>
