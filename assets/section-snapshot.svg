@@ -18,7 +18,7 @@
       .title { font: 800 38px Arial, Helvetica, sans-serif; fill: #f8fafc; }
       .text { font: 600 18px Arial, Helvetica, sans-serif; fill: #cbd5e1; }
       .label { font: 800 24px Arial, Helvetica, sans-serif; fill: #f8fafc; }
-      .small { font: 600 15px Arial, Helvetica, sans-serif; fill: #94a3b8; }
+      .small { font: 600 14px Arial, Helvetica, sans-serif; fill: #94a3b8; }
     </style>
   </defs>
   <rect width="1200" height="300" rx="26" fill="url(#bg)"/>
@@ -31,29 +31,38 @@
   <text x="58" y="108" class="text">7+ years building high-scale frontend systems across fintech, banking, enterprise, and gaming.</text>
 
   <g transform="translate(58 144)">
-    <rect width="330" height="102" rx="18" fill="#102943" stroke="#2b5972"/>
+    <rect width="342" height="116" rx="18" fill="#102943" stroke="#2b5972"/>
     <circle cx="42" cy="38" r="13" fill="#22d3ee">
       <animate attributeName="r" values="11;15;11" dur="2.2s" repeatCount="indefinite"/>
     </circle>
     <text x="72" y="42" class="label">Banking and fintech</text>
-    <text x="28" y="74" class="small">Internet banking, dashboards, reporting tools</text>
+    <text x="28" y="72" class="small">
+      <tspan x="28" dy="0">Internet banking, dashboards</tspan>
+      <tspan x="28" dy="22">Reporting tools and secure UI</tspan>
+    </text>
   </g>
 
-  <g transform="translate(435 144)">
-    <rect width="330" height="102" rx="18" fill="#102943" stroke="#2b5972"/>
+  <g transform="translate(429 144)">
+    <rect width="342" height="116" rx="18" fill="#102943" stroke="#2b5972"/>
     <circle cx="42" cy="38" r="13" fill="#a3e635">
       <animate attributeName="opacity" values="0.55;1;0.55" dur="2.4s" repeatCount="indefinite"/>
     </circle>
     <text x="72" y="42" class="label">Gaming platforms</text>
-    <text x="28" y="74" class="small">Real-time data, user flows, reusable UI systems</text>
+    <text x="28" y="72" class="small">
+      <tspan x="28" dy="0">Real-time data and user flows</tspan>
+      <tspan x="28" dy="22">Reusable UI systems</tspan>
+    </text>
   </g>
 
-  <g transform="translate(812 144)">
-    <rect width="330" height="102" rx="18" fill="#102943" stroke="#2b5972"/>
+  <g transform="translate(800 144)">
+    <rect width="342" height="116" rx="18" fill="#102943" stroke="#2b5972"/>
     <circle cx="42" cy="38" r="13" fill="#f97316">
       <animate attributeName="r" values="13;10;13" dur="2.1s" repeatCount="indefinite"/>
     </circle>
     <text x="72" y="42" class="label">Frontend architecture</text>
-    <text x="28" y="74" class="small">Microfrontends, CI/CD, API-heavy products</text>
+    <text x="28" y="72" class="small">
+      <tspan x="28" dy="0">Microfrontends, CI/CD</tspan>
+      <tspan x="28" dy="22">API-heavy products</tspan>
+    </text>
   </g>
 </svg>
