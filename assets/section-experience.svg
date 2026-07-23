@@ -1,8 +1,8 @@
-<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="470" viewBox="0 0 1200 470" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Experience highlights section</title>
   <desc id="desc">Animated timeline showing Rabitabank, King Entertainment, and ABB Innovation experience highlights.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="470" gradientUnits="userSpaceOnUse">
       <stop stop-color="#081321"/>
       <stop offset="1" stop-color="#10233a"/>
     </linearGradient>
@@ -15,10 +15,10 @@
       .title { font: 800 38px Arial, Helvetica, sans-serif; fill: #f8fafc; }
       .company { font: 800 24px Arial, Helvetica, sans-serif; fill: #f8fafc; }
       .role { font: 700 17px Arial, Helvetica, sans-serif; fill: #cbd5e1; }
-      .small { font: 600 15px Arial, Helvetica, sans-serif; fill: #94a3b8; }
+      .small { font: 600 14px Arial, Helvetica, sans-serif; fill: #94a3b8; }
     </style>
   </defs>
-  <rect width="1200" height="430" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="470" rx="26" fill="url(#bg)"/>
   <text x="58" y="68" class="title">Experience Highlights</text>
   <text x="58" y="100" class="small">Frontend leadership, microfrontends, API integrations, performance, and CI/CD.</text>
   <path d="M100 186H1100" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-dasharray="42 22">
@@ -29,35 +29,44 @@
     <circle cx="64" cy="44" r="22" fill="#22d3ee">
       <animate attributeName="r" values="20;25;20" dur="2.6s" repeatCount="indefinite"/>
     </circle>
-    <rect x="0" y="82" width="330" height="220" rx="18" fill="#102943" stroke="#2b5972"/>
+    <rect x="0" y="82" width="330" height="252" rx="18" fill="#102943" stroke="#2b5972"/>
     <text x="28" y="124" class="company">Rabitabank OJSC</text>
     <text x="28" y="154" class="role">Chapter Lead | 08/2021 - Present</text>
-    <text x="28" y="194" class="small">Large-scale internet banking with Vue 2/3</text>
-    <text x="28" y="222" class="small">Microfrontend architecture and reporting tools</text>
-    <text x="28" y="250" class="small">REST, GraphQL, Webpack, GitLab CI/CD</text>
+    <text x="28" y="194" class="small">
+      <tspan x="28" dy="0">Internet banking with Vue 2/3</tspan>
+      <tspan x="28" dy="24">Microfrontend architecture</tspan>
+      <tspan x="28" dy="24">Reporting tools and APIs</tspan>
+      <tspan x="28" dy="24">REST, GraphQL, Webpack, GitLab CI/CD</tspan>
+    </text>
   </g>
 
   <g transform="translate(435 142)">
     <circle cx="64" cy="44" r="22" fill="#a3e635">
       <animate attributeName="opacity" values="0.55;1;0.55" dur="2.4s" repeatCount="indefinite"/>
     </circle>
-    <rect x="0" y="82" width="330" height="220" rx="18" fill="#102943" stroke="#2b5972"/>
+    <rect x="0" y="82" width="330" height="252" rx="18" fill="#102943" stroke="#2b5972"/>
     <text x="28" y="124" class="company">King Entertainment</text>
     <text x="28" y="154" class="role">Senior Frontend | 08/2025 - 01/2026</text>
-    <text x="28" y="194" class="small">Gaming platform UIs with React and Next.js</text>
-    <text x="28" y="222" class="small">Real-time game data and user activity flows</text>
-    <text x="28" y="250" class="small">Reusable components and rendering optimization</text>
+    <text x="28" y="194" class="small">
+      <tspan x="28" dy="0">Gaming UIs with React and Next.js</tspan>
+      <tspan x="28" dy="24">Real-time game data flows</tspan>
+      <tspan x="28" dy="24">User activity integrations</tspan>
+      <tspan x="28" dy="24">Reusable components and optimization</tspan>
+    </text>
   </g>
 
   <g transform="translate(794 142)">
     <circle cx="64" cy="44" r="22" fill="#f97316">
       <animate attributeName="r" values="22;18;22" dur="2.8s" repeatCount="indefinite"/>
     </circle>
-    <rect x="0" y="82" width="330" height="220" rx="18" fill="#102943" stroke="#2b5972"/>
+    <rect x="0" y="82" width="330" height="252" rx="18" fill="#102943" stroke="#2b5972"/>
     <text x="28" y="124" class="company">ABB Innovation</text>
     <text x="28" y="154" class="role">Outsource Frontend | 06/2024 - 09/2024</text>
-    <text x="28" y="194" class="small">Enterprise dashboards with React and Next.js</text>
-    <text x="28" y="222" class="small">Microfrontend practices in secure systems</text>
-    <text x="28" y="250" class="small">REST APIs and CI/CD deployment workflows</text>
+    <text x="28" y="194" class="small">
+      <tspan x="28" dy="0">Enterprise dashboards</tspan>
+      <tspan x="28" dy="24">React and Next.js delivery</tspan>
+      <tspan x="28" dy="24">Secure microfrontend practices</tspan>
+      <tspan x="28" dy="24">REST APIs and CI/CD workflows</tspan>
+    </text>
   </g>
 </svg>
