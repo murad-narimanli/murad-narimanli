@@ -1,10 +1,35 @@
-# Hi, I'm Murad Narimanli
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Murad Narimanli - Senior Frontend Developer animated banner" width="100%" />
+</p>
 
-Senior Frontend Developer and Frontend Chapter Lead based in Baku, Azerbaijan.
+<h1 align="center">Hi, I'm Murad Narimanli</h1>
 
-I build high-scale fintech, banking, enterprise, and gaming platforms with Vue, React, Next.js, Angular, microfrontend architecture, REST, and GraphQL. I have 7+ years of frontend experience, with a strong focus on performance, accessibility, CI/CD, API integrations, and mentoring developers.
+<p align="center">
+  <strong>Senior Frontend Developer / Frontend Chapter Lead</strong><br />
+  Building high-scale fintech, banking, enterprise, and gaming platforms.
+</p>
 
-[Portfolio](https://murad-narimanli.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/murad-n%C9%99rimanl%C4%B1-549389130/) | [GitHub](https://github.com/murad-narimanli) | [Email](mailto:narimanli.murad@gmail.com)
+<p align="center">
+  <a href="https://murad-narimanli.vercel.app/">Portfolio</a>
+  |
+  <a href="https://www.linkedin.com/in/murad-n%C9%99rimanl%C4%B1-549389130/">LinkedIn</a>
+  |
+  <a href="https://github.com/murad-narimanli">GitHub</a>
+  |
+  <a href="mailto:narimanli.murad@gmail.com">Email</a>
+</p>
+
+---
+
+## Snapshot
+
+I build high-scale frontend systems with Vue, React, Next.js, Angular, microfrontend architecture, REST, and GraphQL. I have 7+ years of frontend experience, with a strong focus on performance, accessibility, CI/CD, API integrations, and mentoring developers.
+
+| Focus | What I work on |
+| --- | --- |
+| Banking and fintech | Internet banking, enterprise dashboards, reporting tools, secure UI architecture |
+| Gaming platforms | Real-time game data, user activity flows, reusable component systems |
+| Frontend architecture | Microfrontends, Webpack optimization, CI/CD, API-heavy applications |
 
 ## About Me
 
@@ -15,13 +40,20 @@ I build high-scale fintech, banking, enterprise, and gaming platforms with Vue, 
 
 ## Tech Stack
 
-**Frontend:** HTML5, CSS3, Sass, SCSS, JavaScript, TypeScript, Vue 2/3, React, Next.js, Nuxt.js, Angular, jQuery
+```txt
+Frontend     HTML5, CSS3, Sass, SCSS, JavaScript, TypeScript, Vue 2/3, React, Next.js, Nuxt.js, Angular, jQuery
+State and UI Vuex, Redux, Redux Toolkit, Composition API, Options API, Material UI, Chakra UI, Ant Design, Quasar
+APIs         REST API, GraphQL, Axios, Supabase, Strapi
+Tooling      Git, Webpack, GitHub Actions, GitLab CI/CD, Jest, RxJS, Lodash, D3, Grunt
+```
 
-**State and UI:** Vuex, Redux, Redux Toolkit, Composition API, Options API, Material UI, Chakra UI, Ant Design, Quasar, Angular Material
+## Featured Strengths
 
-**APIs and data:** REST API, GraphQL, Axios, Supabase, Strapi
-
-**Tooling:** Git, Webpack, GitHub Actions, GitLab CI/CD, Jest, RxJS, Lodash, D3, Grunt
+- Large-scale Vue 2/3 and Composition API applications.
+- React and Next.js dashboards, panels, and SSR-focused interfaces.
+- Microfrontend architecture for modular, scalable frontend systems.
+- REST and GraphQL integrations for complex reporting and product flows.
+- Webpack performance optimization and CI/CD pipelines with GitLab and GitHub Actions.
 
 ## Experience Highlights
 
