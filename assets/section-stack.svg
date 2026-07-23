@@ -1,0 +1,68 @@
+<svg width="1200" height="380" viewBox="0 0 1200 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Tech stack section</title>
+  <desc id="desc">Animated tech stack panel with frontend, state and UI, APIs, and tooling.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111f"/>
+      <stop offset="1" stop-color="#11243a"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#a3e635"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+    <style>
+      .title { font: 800 38px Arial, Helvetica, sans-serif; fill: #f8fafc; }
+      .group { font: 800 22px Arial, Helvetica, sans-serif; fill: #f8fafc; }
+      .chip { font: 700 15px Arial, Helvetica, sans-serif; fill: #dbeafe; }
+      .small { font: 600 15px Arial, Helvetica, sans-serif; fill: #94a3b8; }
+    </style>
+  </defs>
+  <rect width="1200" height="380" rx="26" fill="url(#bg)"/>
+  <text x="58" y="68" class="title">Tech Stack</text>
+  <text x="58" y="100" class="small">Frontend systems, APIs, state, UI libraries, build tooling, and deployment workflows.</text>
+  <path d="M58 123.5H1142" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-dasharray="80 26">
+    <animate attributeName="stroke-dashoffset" values="0;-212" dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <g transform="translate(58 154)">
+    <rect width="248" height="170" rx="18" fill="#102943" stroke="#2b5972"/>
+    <text x="26" y="38" class="group">Frontend</text>
+    <text x="26" y="74" class="chip">HTML5  CSS3  Sass</text>
+    <text x="26" y="104" class="chip">JavaScript  TypeScript</text>
+    <text x="26" y="134" class="chip">Vue 2/3  React  Angular</text>
+    <circle cx="214" cy="38" r="8" fill="#22d3ee">
+      <animate attributeName="cy" values="38;52;38" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(334 154)">
+    <rect width="248" height="170" rx="18" fill="#102943" stroke="#2b5972"/>
+    <text x="26" y="38" class="group">State and UI</text>
+    <text x="26" y="74" class="chip">Vuex  Redux Toolkit</text>
+    <text x="26" y="104" class="chip">Composition API</text>
+    <text x="26" y="134" class="chip">MUI  Chakra  Ant  Quasar</text>
+    <circle cx="214" cy="38" r="8" fill="#a3e635">
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(610 154)">
+    <rect width="248" height="170" rx="18" fill="#102943" stroke="#2b5972"/>
+    <text x="26" y="38" class="group">APIs and Data</text>
+    <text x="26" y="74" class="chip">REST API  GraphQL</text>
+    <text x="26" y="104" class="chip">Axios  Supabase</text>
+    <text x="26" y="134" class="chip">Strapi  Reporting flows</text>
+    <circle cx="214" cy="38" r="8" fill="#38bdf8">
+      <animate attributeName="r" values="7;10;7" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(886 154)">
+    <rect width="256" height="170" rx="18" fill="#102943" stroke="#2b5972"/>
+    <text x="26" y="38" class="group">Tooling</text>
+    <text x="26" y="74" class="chip">Git  Webpack  Jest</text>
+    <text x="26" y="104" class="chip">GitLab CI/CD</text>
+    <text x="26" y="134" class="chip">GitHub Actions  RxJS</text>
+    <circle cx="222" cy="38" r="8" fill="#f97316">
+      <animate attributeName="cy" values="38;26;38" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="180" height="48" viewBox="0 0 180 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Email link</title>
+  <desc id="desc">Animated email link button.</desc>
+  <defs>
+    <linearGradient id="stroke" x1="0" y1="0" x2="180" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f97316"/>
+      <stop offset="1" stop-color="#facc15"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="176" height="44" rx="22" fill="#0f2237"/>
+  <rect x="2" y="2" width="176" height="44" rx="22" stroke="url(#stroke)" stroke-width="2" stroke-dasharray="52 18">
+    <animate attributeName="stroke-dashoffset" values="0;-140" dur="5.2s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M20 18H38V31H20V18Z" fill="#facc15" opacity="0.92"/>
+  <path d="M21 19L29 25L37 19" stroke="#0f2237" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="99" y="30" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="800" fill="#f8fafc">Email</text>
+</svg>
