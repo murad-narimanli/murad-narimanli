@@ -3,20 +3,36 @@
 </p>
 
 <p align="center">
-  <img src="./assets/contact-panel.svg" alt="Contact panel for Murad Narimanli" width="100%" usemap="#contact-links" />
-  <map name="contact-links">
-    <area shape="rect" coords="180,166,410,222" href="https://murad-narimanli.vercel.app/" alt="Portfolio" target="_blank" rel="noopener noreferrer" />
-    <area shape="rect" coords="485,166,715,222" href="https://www.linkedin.com/in/murad-n%C9%99rimanl%C4%B1-549389130/" alt="LinkedIn" target="_blank" rel="noopener noreferrer" />
-    <area shape="rect" coords="790,166,1020,222" href="https://github.com/murad-narimanli" alt="GitHub" target="_blank" rel="noopener noreferrer" />
-    <area shape="rect" coords="180,246,410,302" href="mailto:narimanli.murad@gmail.com" alt="Email" target="_blank" rel="noopener noreferrer" />
-    <area shape="rect" coords="485,246,715,302" href="https://t.me/Murad235" alt="Telegram" target="_blank" rel="noopener noreferrer" />
-    <area shape="rect" coords="790,246,1020,302" href="https://wa.me/994556230599" alt="WhatsApp" target="_blank" rel="noopener noreferrer" />
-  </map>
+  <img src="./assets/contact-panel.svg?v=contact-heading-20260725" alt="Contact panel for Murad Narimanli" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://murad-narimanli.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/link-portfolio.svg" alt="Portfolio" width="30%" />
+  </a>
+  <a href="https://www.linkedin.com/in/murad-n%C9%99rimanl%C4%B1-549389130/" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/link-linkedin.svg" alt="LinkedIn" width="30%" />
+  </a>
+  <a href="https://github.com/murad-narimanli" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/link-github.svg" alt="GitHub" width="30%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:narimanli.murad@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/link-email.svg" alt="Email" width="30%" />
+  </a>
+  <a href="https://t.me/Murad235" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/link-telegram.svg" alt="Telegram" width="30%" />
+  </a>
+  <a href="https://wa.me/994556230599" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/link-whatsapp.svg" alt="WhatsApp" width="30%" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://flowcv.com/resume/se42ekgcm4ld" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/resume-box.svg?v=resume-layout-20260724" alt="Get my resume - Murad Narimanli CV" width="100%" />
+    <img src="./assets/resume-box.svg?v=resume-compact-20260725" alt="Get my resume - Murad Narimanli CV" width="100%" />
   </a>
 </p>
 
