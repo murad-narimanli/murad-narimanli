@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero-plane.svg" alt="Murad Narimanli - Senior Frontend Developer animated plane banner" width="100%" />
+  <img src="./assets/profile-hero-plane.svg?v=plane-20260724" alt="Murad Narimanli - Senior Frontend Developer animated plane banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Murad Narimanli</h1>
