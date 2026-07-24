@@ -1,23 +1,17 @@
 <p align="center">
-  <img src="./assets/profile-hero-plane.svg?v=plane-typewriter-stable-20260724" alt="Murad Narimanli - Senior Frontend Developer animated plane banner" width="100%" />
+  <img src="./assets/profile-hero-plane.svg?v=plane-calm-dark-20260724" alt="Murad Narimanli - Senior Frontend Developer animated plane banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/contact-panel.svg" alt="Contact panel for Murad Narimanli" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://murad-narimanli.vercel.app/">Portfolio</a>
-  |
-  <a href="https://www.linkedin.com/in/murad-n%C9%99rimanl%C4%B1-549389130/">LinkedIn</a>
-  |
-  <a href="https://github.com/murad-narimanli">GitHub</a>
-  |
-  <a href="mailto:narimanli.murad@gmail.com">Email</a>
-  |
-  <a href="https://t.me/Murad235">Telegram</a>
-  |
-  <a href="https://wa.me/994556230599">WhatsApp</a>
+  <img src="./assets/contact-panel.svg" alt="Contact panel for Murad Narimanli" width="100%" usemap="#contact-links" />
+  <map name="contact-links">
+    <area shape="rect" coords="180,166,410,222" href="https://murad-narimanli.vercel.app/" alt="Portfolio" />
+    <area shape="rect" coords="485,166,715,222" href="https://www.linkedin.com/in/murad-n%C9%99rimanl%C4%B1-549389130/" alt="LinkedIn" />
+    <area shape="rect" coords="790,166,1020,222" href="https://github.com/murad-narimanli" alt="GitHub" />
+    <area shape="rect" coords="180,246,410,302" href="mailto:narimanli.murad@gmail.com" alt="Email" />
+    <area shape="rect" coords="485,246,715,302" href="https://t.me/Murad235" alt="Telegram" />
+    <area shape="rect" coords="790,246,1020,302" href="https://wa.me/994556230599" alt="WhatsApp" />
+  </map>
 </p>
 
 ---
