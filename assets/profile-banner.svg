@@ -44,16 +44,16 @@
   <rect width="1200" height="420" rx="28" fill="url(#grid)"/>
 
   <g opacity="0.72">
-    <circle cx="360" cy="35" r="4" fill="#22d3ee">
+    <circle cx="380" cy="35" r="4" fill="#22d3ee">
       <animate attributeName="opacity" values="0.35;1;0.35" dur="2.1s" repeatCount="indefinite"/>
     </circle>
-    <text x="378" y="40" class="tiny">LIVE FRONTEND SYSTEMS</text>
-    <rect x="532" y="24" width="104" height="24" rx="12" fill="#102943" stroke="#2b5972"/>
-    <text x="584" y="41" class="tiny" text-anchor="middle">7+ YEARS</text>
-    <rect x="650" y="24" width="126" height="24" rx="12" fill="#102943" stroke="#2b5972"/>
-    <text x="713" y="41" class="tiny" text-anchor="middle">BANKING UI</text>
-    <rect x="790" y="24" width="158" height="24" rx="12" fill="#102943" stroke="#2b5972"/>
-    <text x="869" y="41" class="tiny" text-anchor="middle">MICROFRONTENDS</text>
+    <text x="398" y="40" class="tiny">LIVE SYSTEMS</text>
+    <rect x="520" y="24" width="104" height="24" rx="12" fill="#102943" stroke="#2b5972"/>
+    <text x="572" y="41" class="tiny" text-anchor="middle">7+ YEARS</text>
+    <rect x="642" y="24" width="126" height="24" rx="12" fill="#102943" stroke="#2b5972"/>
+    <text x="705" y="41" class="tiny" text-anchor="middle">BANKING UI</text>
+    <rect x="786" y="24" width="158" height="24" rx="12" fill="#102943" stroke="#2b5972"/>
+    <text x="865" y="41" class="tiny" text-anchor="middle">MICROFRONTENDS</text>
   </g>
 
   <g opacity="0.32">
@@ -67,30 +67,26 @@
     </path>
   </g>
 
-  <g opacity="0.54">
-    <path d="M108 112C178 48 280 74 324 150C372 234 278 292 202 246" stroke="#22d3ee" stroke-width="2" stroke-linecap="round" stroke-dasharray="16 18">
-      <animate attributeName="stroke-dashoffset" values="0;-136" dur="6s" repeatCount="indefinite"/>
+  <g transform="translate(58 56)">
+    <path d="M22 112C68 42 154 34 212 84C270 134 314 102 344 58" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-dasharray="18 16">
+      <animate attributeName="stroke-dashoffset" values="0;-170" dur="5.8s" repeatCount="indefinite"/>
     </path>
-    <path d="M96 184C148 270 290 268 342 180C388 102 316 30 226 32" stroke="#a3e635" stroke-width="2" stroke-linecap="round" stroke-dasharray="18 20">
-      <animate attributeName="stroke-dashoffset" values="0;152" dur="7s" repeatCount="indefinite"/>
-    </path>
+    <path d="M58 44C77 18 116 18 134 48C156 42 178 56 181 80H41C43 62 48 51 58 44Z" fill="#132c46" stroke="#2b5972" opacity="0.72"/>
+    <path d="M238 132C254 108 290 108 306 136C326 132 346 145 350 166H223C225 151 230 140 238 132Z" fill="#132c46" stroke="#2b5972" opacity="0.62"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;18 -10;0 0" dur="3.4s" repeatCount="indefinite"/>
+      <path d="M171 86L303 36C315 32 322 46 311 53L258 88L284 131C288 138 279 145 273 139L234 104L195 130C187 136 177 127 183 118L207 83L171 94C165 96 164 88 171 86Z" fill="#f8fafc"/>
+      <path d="M206 83L258 88L234 104L207 83Z" fill="#22d3ee"/>
+      <path d="M258 88L311 53L273 139L258 88Z" fill="#a3e635" opacity="0.92"/>
+      <path d="M183 118L207 83L195 130L183 118Z" fill="#f97316" opacity="0.95"/>
+    </g>
+    <circle cx="24" cy="112" r="7" fill="#22d3ee" filter="url(#softGlow)">
+      <animate attributeName="r" values="5;9;5" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="344" cy="58" r="7" fill="#a3e635" filter="url(#softGlow)">
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.1s" repeatCount="indefinite"/>
+    </circle>
   </g>
-
-  <circle cx="153" cy="112" r="86" fill="#0e2238" stroke="#3b82f6" stroke-opacity="0.35" stroke-width="2"/>
-  <circle cx="153" cy="112" r="66" fill="#132c46" stroke="url(#accent)" stroke-width="3">
-    <animate attributeName="r" values="66;72;66" dur="2.8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.72;1;0.72" dur="2.8s" repeatCount="indefinite"/>
-  </circle>
-  <text x="153" y="123" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="44" fill="#f8fafc">MN</text>
-  <circle cx="92" cy="64" r="9" fill="#22d3ee" filter="url(#softGlow)">
-    <animate attributeName="cy" values="64;52;64" dur="5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="218" cy="168" r="7" fill="#a3e635" filter="url(#softGlow)">
-    <animate attributeName="cy" values="168;178;168" dur="6s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="304" cy="151" r="6" fill="#f97316" filter="url(#softGlow)">
-    <animate attributeName="r" values="4;8;4" dur="2.4s" repeatCount="indefinite"/>
-  </circle>
 
   <text x="72" y="250" class="headline">Murad Narimanli</text>
   <text x="76" y="292" class="subhead">Senior Frontend Developer / Chapter Lead</text>
