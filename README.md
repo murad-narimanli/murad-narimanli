@@ -78,3 +78,7 @@
     <img src="./assets/section-education.svg" alt="Education and languages" width="100%" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nicat13/Nicat13/fd2ad2333701f4ac4299e738553273028965ef4d/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" width="100%" />
+</p>
