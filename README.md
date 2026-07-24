@@ -2,41 +2,23 @@
   <img src="./assets/profile-hero-plane.svg?v=plane-typewriter-stable-20260724" alt="Murad Narimanli - Senior Frontend Developer animated plane banner" width="100%" />
 </p>
 
-<table width="100%" align="center">
-  <tr>
-    <td align="center" bgcolor="#081321">
-      <br />
-      <h1 align="center">Hi, I'm Murad Narimanli</h1>
-      <p align="center">
-        <strong>Senior Frontend Developer / Frontend Chapter Lead</strong><br />
-        Building high-scale fintech, banking, enterprise, and gaming platforms.
-      </p>
-      <p align="center">
-        <a href="https://murad-narimanli.vercel.app/">
-          <img src="./assets/link-portfolio.svg" alt="Portfolio" height="48" />
-        </a>
-        <a href="https://www.linkedin.com/in/murad-n%C9%99rimanl%C4%B1-549389130/">
-          <img src="./assets/link-linkedin.svg" alt="LinkedIn" height="48" />
-        </a>
-        <a href="https://github.com/murad-narimanli">
-          <img src="./assets/link-github.svg" alt="GitHub" height="48" />
-        </a>
-      </p>
-      <p align="center">
-        <a href="mailto:narimanli.murad@gmail.com">
-          <img src="./assets/link-email.svg" alt="Email" height="48" />
-        </a>
-        <a href="https://t.me/Murad235">
-          <img src="./assets/link-telegram.svg" alt="Telegram @Murad235" height="48" />
-        </a>
-        <a href="https://wa.me/994556230599">
-          <img src="./assets/link-whatsapp.svg" alt="WhatsApp +994556230599" height="48" />
-        </a>
-      </p>
-      <br />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/contact-panel.svg" alt="Contact panel for Murad Narimanli" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://murad-narimanli.vercel.app/">Portfolio</a>
+  |
+  <a href="https://www.linkedin.com/in/murad-n%C9%99rimanl%C4%B1-549389130/">LinkedIn</a>
+  |
+  <a href="https://github.com/murad-narimanli">GitHub</a>
+  |
+  <a href="mailto:narimanli.murad@gmail.com">Email</a>
+  |
+  <a href="https://t.me/Murad235">Telegram</a>
+  |
+  <a href="https://wa.me/994556230599">WhatsApp</a>
+</p>
 
 ---
 
