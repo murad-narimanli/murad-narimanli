@@ -5,17 +5,17 @@
 <p align="center">
   <img src="./assets/contact-panel.svg" alt="Contact panel for Murad Narimanli" width="100%" usemap="#contact-links" />
   <map name="contact-links">
-    <area shape="rect" coords="180,166,410,222" href="https://murad-narimanli.vercel.app/" alt="Portfolio" />
-    <area shape="rect" coords="485,166,715,222" href="https://www.linkedin.com/in/murad-n%C9%99rimanl%C4%B1-549389130/" alt="LinkedIn" />
-    <area shape="rect" coords="790,166,1020,222" href="https://github.com/murad-narimanli" alt="GitHub" />
-    <area shape="rect" coords="180,246,410,302" href="mailto:narimanli.murad@gmail.com" alt="Email" />
-    <area shape="rect" coords="485,246,715,302" href="https://t.me/Murad235" alt="Telegram" />
-    <area shape="rect" coords="790,246,1020,302" href="https://wa.me/994556230599" alt="WhatsApp" />
+    <area shape="rect" coords="180,166,410,222" href="https://murad-narimanli.vercel.app/" alt="Portfolio" target="_blank" rel="noopener noreferrer" />
+    <area shape="rect" coords="485,166,715,222" href="https://www.linkedin.com/in/murad-n%C9%99rimanl%C4%B1-549389130/" alt="LinkedIn" target="_blank" rel="noopener noreferrer" />
+    <area shape="rect" coords="790,166,1020,222" href="https://github.com/murad-narimanli" alt="GitHub" target="_blank" rel="noopener noreferrer" />
+    <area shape="rect" coords="180,246,410,302" href="mailto:narimanli.murad@gmail.com" alt="Email" target="_blank" rel="noopener noreferrer" />
+    <area shape="rect" coords="485,246,715,302" href="https://t.me/Murad235" alt="Telegram" target="_blank" rel="noopener noreferrer" />
+    <area shape="rect" coords="790,246,1020,302" href="https://wa.me/994556230599" alt="WhatsApp" target="_blank" rel="noopener noreferrer" />
   </map>
 </p>
 
 <p align="center">
-  <a href="https://flowcv.com/resume/se42ekgcm4ld">
+  <a href="https://flowcv.com/resume/se42ekgcm4ld" target="_blank" rel="noopener noreferrer">
     <img src="./assets/resume-box.svg?v=resume-layout-20260724" alt="Get my resume - Murad Narimanli CV" width="100%" />
   </a>
 </p>
@@ -39,37 +39,37 @@
 </p>
 
 <p align="center">
-  <a href="https://sweeps.us">
+  <a href="https://sweeps.us" target="_blank" rel="noopener noreferrer">
     <img src="./assets/project-sweeps.svg" alt="Sweeps project" width="32%" />
   </a>
-  <a href="https://ib.rabitabank.com/">
+  <a href="https://ib.rabitabank.com/" target="_blank" rel="noopener noreferrer">
     <img src="./assets/project-rabitabank.svg" alt="Rabitabank Internet Banking project" width="32%" />
   </a>
-  <a href="https://www.ledgerinvesting.com/">
+  <a href="https://www.ledgerinvesting.com/" target="_blank" rel="noopener noreferrer">
     <img src="./assets/project-ledger.svg" alt="Ledger Investing project" width="32%" />
   </a>
-  <a href="https://vac.az/">
+  <a href="https://vac.az/" target="_blank" rel="noopener noreferrer">
     <img src="./assets/project-vac.svg" alt="Vac.az project" width="32%" />
   </a>
-  <a href="https://gamesislands.com/">
+  <a href="https://gamesislands.com/" target="_blank" rel="noopener noreferrer">
     <img src="./assets/project-gamesislands.svg" alt="Game Islands project" width="32%" />
   </a>
-  <a href="https://rivermonster-casino.com/">
+  <a href="https://rivermonster-casino.com/" target="_blank" rel="noopener noreferrer">
     <img src="./assets/project-rivermonster.svg" alt="RiverMonster project" width="32%" />
   </a>
-  <a href="https://vegasx-casino.com/">
+  <a href="https://vegasx-casino.com/" target="_blank" rel="noopener noreferrer">
     <img src="./assets/project-vegasx.svg" alt="Vegasx project" width="32%" />
   </a>
-  <a href="https://flamingo7-casino.com/">
+  <a href="https://flamingo7-casino.com/" target="_blank" rel="noopener noreferrer">
     <img src="./assets/project-flamingo7.svg" alt="Flamingo7 project" width="32%" />
   </a>
-  <a href="https://ultrapower-casino.com/">
+  <a href="https://ultrapower-casino.com/" target="_blank" rel="noopener noreferrer">
     <img src="./assets/project-ultrapower.svg" alt="Ultrapower project" width="32%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://asoiu.edu.az/home">
+  <a href="https://asoiu.edu.az/home" target="_blank" rel="noopener noreferrer">
     <img src="./assets/section-education.svg" alt="Education and languages" width="100%" />
   </a>
 </p>
