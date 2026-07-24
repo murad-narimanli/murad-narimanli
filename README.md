@@ -14,6 +14,12 @@
   </map>
 </p>
 
+<p align="center">
+  <a href="https://flowcv.com/resume/se42ekgcm4ld">
+    <img src="./assets/resume-box.svg" alt="Get my resume - Murad Narimanli CV" width="100%" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
