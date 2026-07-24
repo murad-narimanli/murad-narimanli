@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/contact-panel.svg?v=contact-heading-20260725" alt="Contact panel for Murad Narimanli" width="100%" />
+  <img src="./assets/contact-heading.svg" alt="Contact heading for Murad Narimanli" width="100%" />
 </p>
 
 <p align="center">
