@@ -1,0 +1,20 @@
+<svg width="180" height="48" viewBox="0 0 180 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">WhatsApp link</title>
+  <desc id="desc">Animated WhatsApp contact link button.</desc>
+  <defs>
+    <linearGradient id="stroke" x1="0" y1="0" x2="180" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22c55e"/>
+      <stop offset="1" stop-color="#a3e635"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="176" height="44" rx="22" fill="#0f2237"/>
+  <rect x="2" y="2" width="176" height="44" rx="22" stroke="url(#stroke)" stroke-width="2" stroke-dasharray="52 18">
+    <animate attributeName="stroke-dashoffset" values="0;-140" dur="5.3s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="29" cy="24" r="12" fill="#22c55e">
+    <animate attributeName="r" values="10;13;10" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M24 18C21 21 21 27 25 30L23 36L29 34C34 35 39 31 39 25C39 18 30 13 24 18Z" fill="#f8fafc"/>
+  <path d="M27 21C28 25 31 28 35 29" stroke="#0f2237" stroke-width="2" stroke-linecap="round"/>
+  <text x="104" y="30" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="800" fill="#f8fafc">WhatsApp</text>
+</svg>

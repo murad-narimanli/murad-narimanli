@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero-plane.svg?v=plane-typewriter-20260724" alt="Murad Narimanli - Senior Frontend Developer animated plane banner" width="100%" />
+  <img src="./assets/profile-hero-plane.svg?v=plane-typewriter-stable-20260724" alt="Murad Narimanli - Senior Frontend Developer animated plane banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Murad Narimanli</h1>
@@ -19,11 +19,17 @@
   <a href="https://github.com/murad-narimanli">
     <img src="./assets/link-github.svg" alt="GitHub" height="48" />
   </a>
+</p>
+
+<p align="center">
   <a href="mailto:narimanli.murad@gmail.com">
     <img src="./assets/link-email.svg" alt="Email" height="48" />
   </a>
   <a href="https://t.me/Murad235">
     <img src="./assets/link-telegram.svg" alt="Telegram @Murad235" height="48" />
+  </a>
+  <a href="https://wa.me/994556230599">
+    <img src="./assets/link-whatsapp.svg" alt="WhatsApp +994556230599" height="48" />
   </a>
 </p>
 
