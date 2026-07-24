@@ -1,8 +1,8 @@
-<svg width="1200" height="470" viewBox="0 0 1200 470" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Experience highlights section</title>
-  <desc id="desc">Animated timeline showing Rabitabank, King Entertainment, and ABB Innovation experience highlights.</desc>
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Full experience section</title>
+  <desc id="desc">Animated experience grid showing all workplaces from Murad Narimanli's CV.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="470" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="900" gradientUnits="userSpaceOnUse">
       <stop stop-color="#081321"/>
       <stop offset="1" stop-color="#10233a"/>
     </linearGradient>
@@ -11,65 +11,161 @@
       <stop offset="0.55" stop-color="#a3e635"/>
       <stop offset="1" stop-color="#f97316"/>
     </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
     <style>
       .title { font: 800 38px Arial, Helvetica, sans-serif; fill: #f8fafc; }
-      .company { font: 800 24px Arial, Helvetica, sans-serif; fill: #f8fafc; }
-      .role { font: 700 17px Arial, Helvetica, sans-serif; fill: #cbd5e1; }
-      .small { font: 600 14px Arial, Helvetica, sans-serif; fill: #94a3b8; }
+      .company { font: 800 21px Arial, Helvetica, sans-serif; fill: #f8fafc; }
+      .role { font: 700 15px Arial, Helvetica, sans-serif; fill: #cbd5e1; }
+      .date { font: 700 14px Arial, Helvetica, sans-serif; fill: #94a3b8; }
+      .small { font: 600 13px Arial, Helvetica, sans-serif; fill: #94a3b8; }
+      .tag { font: 800 11px Arial, Helvetica, sans-serif; fill: #bbf7d0; }
     </style>
   </defs>
-  <rect width="1200" height="470" rx="26" fill="url(#bg)"/>
+
+  <rect width="1200" height="900" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="900" rx="26" fill="url(#grid)"/>
   <text x="58" y="68" class="title">Experience Highlights</text>
-  <text x="58" y="100" class="small">Frontend leadership, microfrontends, API integrations, performance, and CI/CD.</text>
-  <path d="M100 186H1100" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-dasharray="42 22">
-    <animate attributeName="stroke-dashoffset" values="0;-192" dur="8s" repeatCount="indefinite"/>
+  <text x="58" y="100" class="small">All workplaces from frontend development, instruction, banking, enterprise, and gaming platform work.</text>
+  <path d="M58 132H1142" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-dasharray="48 22">
+    <animate attributeName="stroke-dashoffset" values="0;-210" dur="8s" repeatCount="indefinite"/>
   </path>
 
-  <g transform="translate(76 142)">
-    <circle cx="64" cy="44" r="22" fill="#22d3ee">
-      <animate attributeName="r" values="20;25;20" dur="2.6s" repeatCount="indefinite"/>
+  <g transform="translate(76 168)">
+    <rect width="330" height="190" rx="18" fill="#102943" stroke="#2b5972"/>
+    <circle cx="288" cy="32" r="10" fill="#22d3ee">
+      <animate attributeName="r" values="8;12;8" dur="2.4s" repeatCount="indefinite"/>
     </circle>
-    <rect x="0" y="82" width="330" height="252" rx="18" fill="#102943" stroke="#2b5972"/>
-    <text x="28" y="124" class="company">Rabitabank OJSC</text>
-    <text x="28" y="154" class="role">Chapter Lead</text>
-    <text x="28" y="180" class="small">08/2021 - Present</text>
-    <text x="28" y="214" class="small">
-      <tspan x="28" dy="0">Internet banking with Vue 2/3</tspan>
-      <tspan x="28" dy="24">Microfrontend architecture</tspan>
-      <tspan x="28" dy="24">Reporting tools and APIs</tspan>
-      <tspan x="28" dy="24">REST, GraphQL, Webpack, GitLab CI/CD</tspan>
+    <text x="26" y="40" class="company">Rabitabank OJSC</text>
+    <text x="26" y="68" class="role">Senior Frontend / Chapter Lead</text>
+    <text x="26" y="92" class="date">08/2021 - Present</text>
+    <text x="26" y="126" class="small">
+      <tspan x="26" dy="0">Internet banking with Vue 2/3</tspan>
+      <tspan x="26" dy="21">Microfrontends, REST, GraphQL</tspan>
+      <tspan x="26" dy="21">Webpack and GitLab CI/CD</tspan>
     </text>
   </g>
 
-  <g transform="translate(435 142)">
-    <circle cx="64" cy="44" r="22" fill="#a3e635">
-      <animate attributeName="opacity" values="0.55;1;0.55" dur="2.4s" repeatCount="indefinite"/>
+  <g transform="translate(435 168)">
+    <rect width="330" height="190" rx="18" fill="#102943" stroke="#2b5972"/>
+    <circle cx="288" cy="32" r="10" fill="#a3e635">
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.2s" repeatCount="indefinite"/>
     </circle>
-    <rect x="0" y="82" width="330" height="252" rx="18" fill="#102943" stroke="#2b5972"/>
-    <text x="28" y="124" class="company">King Entertainment</text>
-    <text x="28" y="154" class="role">Senior Frontend</text>
-    <text x="28" y="180" class="small">08/2025 - 01/2026</text>
-    <text x="28" y="214" class="small">
-      <tspan x="28" dy="0">Gaming UIs with React and Next.js</tspan>
-      <tspan x="28" dy="24">Real-time game data flows</tspan>
-      <tspan x="28" dy="24">User activity integrations</tspan>
-      <tspan x="28" dy="24">Reusable components and optimization</tspan>
+    <text x="26" y="40" class="company">King Entertainment</text>
+    <text x="26" y="68" class="role">Senior Frontend Developer</text>
+    <text x="26" y="92" class="date">08/2025 - 01/2026</text>
+    <text x="26" y="126" class="small">
+      <tspan x="26" dy="0">React, Next.js and Node.js</tspan>
+      <tspan x="26" dy="21">Gaming platform interfaces</tspan>
+      <tspan x="26" dy="21">Real-time APIs and UI systems</tspan>
     </text>
   </g>
 
-  <g transform="translate(794 142)">
-    <circle cx="64" cy="44" r="22" fill="#f97316">
-      <animate attributeName="r" values="22;18;22" dur="2.8s" repeatCount="indefinite"/>
+  <g transform="translate(794 168)">
+    <rect width="330" height="190" rx="18" fill="#102943" stroke="#2b5972"/>
+    <circle cx="288" cy="32" r="10" fill="#f97316">
+      <animate attributeName="r" values="10;7;10" dur="2.3s" repeatCount="indefinite"/>
     </circle>
-    <rect x="0" y="82" width="330" height="252" rx="18" fill="#102943" stroke="#2b5972"/>
-    <text x="28" y="124" class="company">ABB Innovation</text>
-    <text x="28" y="154" class="role">Outsource Frontend</text>
-    <text x="28" y="180" class="small">06/2024 - 09/2024</text>
-    <text x="28" y="214" class="small">
-      <tspan x="28" dy="0">Enterprise dashboards</tspan>
-      <tspan x="28" dy="24">React and Next.js delivery</tspan>
-      <tspan x="28" dy="24">Secure microfrontend practices</tspan>
-      <tspan x="28" dy="24">REST APIs and CI/CD workflows</tspan>
+    <text x="26" y="40" class="company">ABB Innovation</text>
+    <text x="26" y="68" class="role">Outsource Frontend Developer</text>
+    <text x="26" y="92" class="date">06/2024 - 09/2024</text>
+    <text x="26" y="126" class="small">
+      <tspan x="26" dy="0">Enterprise dashboards</tspan>
+      <tspan x="26" dy="21">React, Next.js, microfrontends</tspan>
+      <tspan x="26" dy="21">REST APIs and GitHub Actions</tspan>
     </text>
   </g>
+
+  <g transform="translate(76 394)">
+    <rect width="330" height="190" rx="18" fill="#102943" stroke="#2b5972"/>
+    <circle cx="288" cy="32" r="10" fill="#38bdf8">
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="26" y="40" class="company">Qubit Labs LLC</text>
+    <text x="26" y="68" class="role">Outsource Frontend Developer</text>
+    <text x="26" y="92" class="date">12/2023 - 04/2024</text>
+    <text x="26" y="126" class="small">
+      <tspan x="26" dy="0">Vue 3 dashboard components</tspan>
+      <tspan x="26" dy="21">Composition API and GraphQL</tspan>
+      <tspan x="26" dy="21">Webpack and GitHub Actions</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(435 394)">
+    <rect width="330" height="190" rx="18" fill="#102943" stroke="#2b5972"/>
+    <circle cx="288" cy="32" r="10" fill="#22d3ee">
+      <animate attributeName="r" values="8;12;8" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="26" y="40" class="company">Fourmeta Agency</text>
+    <text x="26" y="68" class="role">Frontend Developer (Remote)</text>
+    <text x="26" y="92" class="date">12/2022 - 09/2023</text>
+    <text x="26" y="126" class="small">
+      <tspan x="26" dy="0">Vue 2/3 frontend solutions</tspan>
+      <tspan x="26" dy="21">E-commerce and CMS projects</tspan>
+      <tspan x="26" dy="21">REST APIs, Webpack and Jest</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(794 394)">
+    <rect width="330" height="190" rx="18" fill="#102943" stroke="#2b5972"/>
+    <circle cx="288" cy="32" r="10" fill="#a3e635">
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="26" y="40" class="company">Social Innovation Lab</text>
+    <text x="26" y="68" class="role">Frontend Instructor</text>
+    <text x="26" y="92" class="date">08/2022 - 09/2023</text>
+    <text x="26" y="126" class="small">
+      <tspan x="26" dy="0">Vue, React and Hooks training</tspan>
+      <tspan x="26" dy="21">State management and REST APIs</tspan>
+      <tspan x="26" dy="21">Git, Webpack and Agile topics</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(76 620)">
+    <rect width="330" height="190" rx="18" fill="#102943" stroke="#2b5972"/>
+    <circle cx="288" cy="32" r="10" fill="#f97316">
+      <animate attributeName="r" values="10;7;10" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="26" y="40" class="company">TIMESOFT</text>
+    <text x="26" y="68" class="role">Frontend Developer</text>
+    <text x="26" y="92" class="date">08/2020 - 04/2022</text>
+    <text x="26" y="126" class="small">
+      <tspan x="26" dy="0">Virtual Azerbaijan Group MMC</tspan>
+      <tspan x="26" dy="21">Vue 2, React, REST and Vuex</tspan>
+      <tspan x="26" dy="21">Control and analytics systems</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(435 620)">
+    <rect width="330" height="190" rx="18" fill="#102943" stroke="#2b5972"/>
+    <circle cx="288" cy="32" r="10" fill="#38bdf8">
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="26" y="40" class="company">Webzool Creative</text>
+    <text x="26" y="68" class="role">Frontend Developer (Remote)</text>
+    <text x="26" y="92" class="date">09/2022 - 01/2023</text>
+    <text x="26" y="126" class="small">
+      <tspan x="26" dy="0">Online casino system</tspan>
+      <tspan x="26" dy="21">React, Next.js, SSR and SEO</tspan>
+      <tspan x="26" dy="21">REST APIs, CI/CD and unit tests</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(794 620)">
+    <rect width="330" height="190" rx="18" fill="#102943" stroke="#2b5972"/>
+    <circle cx="288" cy="32" r="10" fill="#a3e635">
+      <animate attributeName="r" values="8;12;8" dur="2.7s" repeatCount="indefinite"/>
+    </circle>
+    <text x="26" y="40" class="company">Okmedia LLC</text>
+    <text x="26" y="68" class="role">Frontend Developer</text>
+    <text x="26" y="92" class="date">08/2017 - 08/2020</text>
+    <text x="26" y="126" class="small">
+      <tspan x="26" dy="0">E-commerce and advertising sites</tspan>
+      <tspan x="26" dy="21">Vue 2, JavaScript and jQuery</tspan>
+      <tspan x="26" dy="21">Figma/PSD to responsive UI</tspan>
+    </text>
+  </g>
+
+  <text x="76" y="856" class="tag">FRONTEND JOURNEY: BANKING -> ENTERPRISE -> GAMING -> EDUCATION -> E-COMMERCE</text>
 </svg>
