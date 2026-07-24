@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero-plane.svg?v=plane-20260724" alt="Murad Narimanli - Senior Frontend Developer animated plane banner" width="100%" />
+  <img src="./assets/profile-hero-plane.svg?v=plane-typewriter-20260724" alt="Murad Narimanli - Senior Frontend Developer animated plane banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Murad Narimanli</h1>
@@ -21,6 +21,9 @@
   </a>
   <a href="mailto:narimanli.murad@gmail.com">
     <img src="./assets/link-email.svg" alt="Email" height="48" />
+  </a>
+  <a href="https://t.me/Murad235">
+    <img src="./assets/link-telegram.svg" alt="Telegram @Murad235" height="48" />
   </a>
 </p>
 
