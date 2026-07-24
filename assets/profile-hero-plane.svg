@@ -69,23 +69,24 @@
     </path>
   </g>
 
-  <g transform="translate(58 56)">
-    <path d="M22 112C68 42 154 34 212 84C270 134 314 102 344 58" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-dasharray="18 16">
+  <g transform="translate(58 72)">
+    <path d="M22 96C70 42 146 42 198 80C248 118 300 100 344 52" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-dasharray="18 16">
       <animate attributeName="stroke-dashoffset" values="0;-170" dur="5.8s" repeatCount="indefinite"/>
     </path>
-    <path d="M58 44C77 18 116 18 134 48C156 42 178 56 181 80H41C43 62 48 51 58 44Z" fill="#132c46" stroke="#2b5972" opacity="0.72"/>
-    <path d="M238 132C254 108 290 108 306 136C326 132 346 145 350 166H223C225 151 230 140 238 132Z" fill="#132c46" stroke="#2b5972" opacity="0.62"/>
-    <g>
-      <animateMotion dur="6s" repeatCount="indefinite" rotate="auto" path="M0 0 C42 -44 102 -28 130 12 C156 50 88 74 34 32 C-4 2 -18 -18 0 0"/>
-      <path d="M171 86L303 36C315 32 322 46 311 53L258 88L284 131C288 138 279 145 273 139L234 104L195 130C187 136 177 127 183 118L207 83L171 94C165 96 164 88 171 86Z" fill="#f8fafc"/>
-      <path d="M206 83L258 88L234 104L207 83Z" fill="#22d3ee"/>
-      <path d="M258 88L311 53L273 139L258 88Z" fill="#a3e635" opacity="0.92"/>
-      <path d="M183 118L207 83L195 130L183 118Z" fill="#f97316" opacity="0.95"/>
+    <path d="M58 36C77 10 116 10 134 40C156 34 178 48 181 72H41C43 54 48 43 58 36Z" fill="#132c46" stroke="#2b5972" opacity="0.72"/>
+    <path d="M238 124C254 100 290 100 306 128C326 124 346 137 350 158H223C225 143 230 132 238 124Z" fill="#132c46" stroke="#2b5972" opacity="0.62"/>
+    <g transform="translate(168 40) scale(0.62)">
+      <animateTransform attributeName="transform" type="translate" values="168 40;210 20;252 56;196 74;168 40" dur="5.2s" repeatCount="indefinite" additive="replace"/>
+      <animateTransform attributeName="transform" type="scale" values="0.62;0.62;0.62;0.62;0.62" dur="5.2s" repeatCount="indefinite" additive="sum"/>
+      <path d="M0 58L132 8C144 4 151 18 140 25L87 60L113 103C117 110 108 117 102 111L63 76L24 102C16 108 6 99 12 90L36 55L0 66C-6 68 -7 60 0 58Z" fill="#f8fafc"/>
+      <path d="M35 55L87 60L63 76L36 55Z" fill="#22d3ee"/>
+      <path d="M87 60L140 25L102 111L87 60Z" fill="#a3e635" opacity="0.92"/>
+      <path d="M12 90L36 55L24 102L12 90Z" fill="#f97316" opacity="0.95"/>
     </g>
-    <circle cx="24" cy="112" r="7" fill="#22d3ee" filter="url(#softGlow)">
+    <circle cx="24" cy="96" r="7" fill="#22d3ee" filter="url(#softGlow)">
       <animate attributeName="r" values="5;9;5" dur="2.4s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="344" cy="58" r="7" fill="#a3e635" filter="url(#softGlow)">
+    <circle cx="344" cy="52" r="7" fill="#a3e635" filter="url(#softGlow)">
       <animate attributeName="opacity" values="0.45;1;0.45" dur="2.1s" repeatCount="indefinite"/>
     </circle>
   </g>
