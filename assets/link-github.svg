@@ -1,6 +1,6 @@
 <svg width="180" height="48" viewBox="0 0 180 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">GitHub link</title>
-  <desc id="desc">Animated GitHub link button.</desc>
+  <desc id="desc">GitHub link button.</desc>
   <defs>
     <linearGradient id="stroke" x1="0" y1="0" x2="180" y2="48" gradientUnits="userSpaceOnUse">
       <stop stop-color="#e2e8f0"/>
@@ -8,11 +8,7 @@
     </linearGradient>
   </defs>
   <rect x="2" y="2" width="176" height="44" rx="22" fill="#0f2237"/>
-  <rect x="2" y="2" width="176" height="44" rx="22" stroke="url(#stroke)" stroke-width="2" stroke-dasharray="52 18">
-    <animate attributeName="stroke-dashoffset" values="0;-140" dur="5.8s" repeatCount="indefinite"/>
-  </rect>
-  <circle cx="29" cy="24" r="8" fill="#e2e8f0">
-    <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" repeatCount="indefinite"/>
-  </circle>
+  <rect x="2" y="2" width="176" height="44" rx="22" stroke="url(#stroke)" stroke-width="2"/>
+  <circle cx="29" cy="24" r="8" fill="#e2e8f0"/>
   <text x="97" y="30" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="800" fill="#f8fafc">GitHub</text>
 </svg>

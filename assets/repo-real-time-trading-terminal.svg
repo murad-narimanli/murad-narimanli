@@ -1,0 +1,11 @@
+<svg width="360" height="110" viewBox="0 0 360 110" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">real-time-trading-terminal repository</title>
+  <desc id="desc">GitHub repository card for real-time-trading-terminal.</desc>
+  <defs><linearGradient id="s" x1="0" y1="0" x2="360" y2="110"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a3e635"/></linearGradient></defs>
+  <rect x="2" y="2" width="356" height="106" rx="14" fill="#102943"/>
+  <rect x="2" y="2" width="356" height="106" rx="14" stroke="url(#s)" stroke-width="2"/>
+  <circle cx="36" cy="34" r="8" fill="#38bdf8"/>
+  <text x="56" y="39" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800" fill="#f8fafc">real-time-trading-terminal</text>
+  <text x="56" y="68" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#94a3b8">Live market terminal UI</text>
+  <text x="264" y="68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" fill="#bbf7d0">TypeScript</text>
+</svg>
